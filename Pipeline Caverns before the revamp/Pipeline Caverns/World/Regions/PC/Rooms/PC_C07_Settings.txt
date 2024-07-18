@@ -1,0 +1,5 @@
+Clouds: 0.02173913
+Grime: 0.173913
+EffectColorA: 16
+EffectColorB: 1
+Effects: ReplaceEffectColorA-0-362-292-Color-0.326087-0-0, ReplaceEffectColorB-0-636-287-Color-0.173913-0.4130435-0.07608695, 

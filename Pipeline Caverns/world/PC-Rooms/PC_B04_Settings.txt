@@ -1,0 +1,3 @@
+Template: PC_SettingsTemplate_Higher
+Palette: 245
+FadePalette: 243, 0.3586957, 0.4456522

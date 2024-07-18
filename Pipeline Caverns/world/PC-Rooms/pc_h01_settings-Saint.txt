@@ -1,0 +1,16 @@
+Template: PC_SettingsTemplate_Surface
+DangerType: Blizzard
+CeilingDrips: 0
+WaveSpeed: 0.7083775
+WaveLength: 0.8958113
+WaveAmplitude: 9.351807E-06
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.1956522
+Palette: 245
+Effects: Dustpuffs-1-20-20, 
+PlacedObjects: NoSpearStickZone><7968.362><280.3947><-332~230, SnowSource><5524.498><364.2><Radial~959~165~50~86.60254~0.6739131~0.5108696, SnowSource><5101.973><267.3018><None~-130~230~50~86.60254~0.4891304~1, SnowSource><6185.277><380.1981><Radial~-209~280~-475~78.60254~0.7391304~0, SnowSource><4799.897><374.6713><Radial~-316~170~50~86.60254~0.5434783~0, SnowSource><4386.304><380.6927><Radial~-323~218~50~86.60254~0.6521739~0, SnowSource><3816.273><413.5513><Radial~-334~198~50~86.60254~0.4673913~0, SnowSource><3259.901><453.6315><Radial~-368~174~50~86.60254~0.6847826~0, SnowSource><1989.748><423.2><Radial~-333~191~50~86.60254~1~0, SnowSource><2384.594><474.9266><Radial~-402~113~50~86.60254~0.5434783~0, SnowSource><2751.937><531.6783><Radial~-175~211~50~86.60254~1~0, SnowSource><1596.311><414.6867><Radial~-348~314~50~86.60254~0.5978261~0.7826087, SnowSource><1026.576><394.4025><Radial~-177~332~50~86.60254~0.75~0.6304348, SnowSource><734.3473><425.8708><None~-521.7511~310.6222~50~86.60254~0.4581976~0.4782609, SnowSource><6774.849><451.1191><Radial~-426~249~50~86.60254~0.6739131~0.6086956, SnowSource><7168.195><420.5441><Radial~-243~277~50~86.60254~0.6521739~0.8369565, SnowSource><7626.176><442.9358><Radial~-311~197~50~86.60254~0.7670971~0.7065217, SnowSource><7986.8><386.2646><Radial~-1015.786~337.7556~50~86.60254~0.9006666~0.846965, 
+AmbientSounds: OMNI><AM_WIN-HowlingWnd.ogg><580.4464><549.337><0.685598><0.8468816, OMNI><AM_WIN-StrongWnd2.ogg><834.9392><437.3211><0.7165309><1, OMNI><AM_WIN-SubWnd.ogg><477.1765><388.5677><0.6933308><1.626393, OMNI><AM_WIN_Hilltop.ogg><728.9946><344.9041><0.6701308><1.9, 
+Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>solar_breeze<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>0<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>1<eA>stopAtDeath<eB>1<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>672.3022<tB>375.2794<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>, 
+WetTerrain: OFF
+BackgroundOffset: -927.993,-217.3913

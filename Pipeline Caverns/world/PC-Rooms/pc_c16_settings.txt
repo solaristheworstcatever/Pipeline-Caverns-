@@ -1,0 +1,13 @@
+Template: PC_SettingsTemplate_Surface
+CeilingDrips: 0
+WaveSpeed: 0.288045
+WaveLength: 0.8940225
+WaveAmplitude: 3.008585E-07
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 245
+EffectColorB: 21
+PlacedObjects: SnowSource><575.198><290.9008><None~-778.3354~423.5555~50~86.60254~0.6210725~0.711459, SnowSource><1527.054><358.1955><None~-705.7667~367.3778~50~86.60254~0.5205396~0.6341261, SnowSource><2431.723><341.2439><None~777.624~388.7111~50~86.60254~0.474139~0.750124, 
+FadePalette: 245, 0.0850656, 0.185598, 0.2629305
+WetTerrain: OFF
+BackgroundOffset: -927.993,-869.5653

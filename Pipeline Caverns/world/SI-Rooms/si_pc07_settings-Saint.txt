@@ -1,0 +1,17 @@
+Template: SI_SettingsTemplate_Inside
+DangerType: FloodAndRain
+CeilingDrips: 0
+WaveSpeed: 0.478646
+WaveLength: 0.989323
+WaveAmplitude: 9.015958E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.4021739
+Grime: 0.2173913
+RandomItemDensity: 0.2065217
+RandomItemSpearChance: 0.1021738
+Palette: 2
+EffectColorA: 10
+PlacedObjects: LocalBlizzard><445.9217><446.184><-230~157~50~86.60254~0.5652174~1~0.8369565, 
+FadePalette: 247, 0.5543478
+WetTerrain: OFF

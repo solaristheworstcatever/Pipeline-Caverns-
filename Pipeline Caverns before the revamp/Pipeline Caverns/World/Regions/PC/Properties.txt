@@ -1,0 +1,37 @@
+Palette: 0
+batDepleteCyclesMin: 2
+batDepleteCyclesMax: 7
+batDepleteCyclesMaxIfLessThanTwoLeft: 3
+batDepleteCyclesMaxIfLessThanFiveLeft: 4
+batsPerActiveSwarmRoom: 7
+overseersSpawnChance: 0.8
+overseersMin: 0
+overseersMax: 4
+playerGuideOverseerSpawnChance: 1.0
+Subregion: Pipeline Caverns
+Subregion: Temple
+Subregion: Surface
+Subregion: Mushroom Caverns
+Subregion: The Mountain
+Room Setting Templates: Inside, Higher, Surface
+Room_Attr: GATE_PC_SU: Vulture-1,KingVulture-1,
+Room_Attr: PC_A01: Vulture-1,KingVulture-1,
+Room_Attr: PC_A02: Vulture-1,KingVulture-1,
+Room_Attr: PC_A03: Vulture-1,KingVulture-1,
+Room_Attr: PC_A06: Vulture-1,KingVulture-1,
+Room_Attr: PC_B01: BlueLizard-1,
+Room_Attr: PC_B03: BlueLizard-1,
+Room_Attr: PC_C01: Vulture-1,KingVulture-1,
+Room_Attr: PC_C02: Vulture-1,KingVulture-1,
+Room_Attr: PC_C03: Vulture-1,KingVulture-1,
+Room_Attr: PC_C04: Vulture-1,KingVulture-1,
+Room_Attr: PC_C05: Vulture-1,KingVulture-1,
+Room_Attr: PC_C06: Vulture-1,KingVulture-1,
+Room_Attr: PC_C07: Vulture-1,KingVulture-1,
+Room_Attr: PC_C08: BlueLizard-1,Vulture-1,KingVulture-1,
+Room_Attr: PC_C09: BlueLizard-1,
+Room_Attr: PC_D02: Vulture-1,KingVulture-1,
+Room_Attr: PC_F01: Vulture-1,KingVulture-1,
+Room_Attr: PC_F02: Vulture-1,KingVulture-1,
+Room_Attr: PC_S01: Vulture-1,KingVulture-1,
+Room_Attr: OffScreenDen_PC: Vulture-1,KingVulture-1,

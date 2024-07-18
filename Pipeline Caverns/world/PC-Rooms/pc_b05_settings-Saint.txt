@@ -1,0 +1,11 @@
+Template: PC_SettingsTemplate_Higher
+CeilingDrips: 0
+WaveSpeed: 0.6363788
+WaveLength: 0.9318106
+WaveAmplitude: 9.131894E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 245
+PlacedObjects: LocalBlizzard><408.6996><1269.987><749~-1242~375~-61.39746~0.6847826~1~0.75, SnowSource><420.4199><1265.895><None~-103~184~50~86.60254~0.3586957~0.5326087, 
+FadePalette: 243, 0.1195652, 0.2608696
+WetTerrain: OFF

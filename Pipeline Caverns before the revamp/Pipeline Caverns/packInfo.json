@@ -1,0 +1,13 @@
+{
+   "regionPackName": "Pipeline Caverns", 
+   "description": "From where Slugcat came from", 
+   "author": "Solar", 
+   "activated": true, 
+   "loadOrder": 2147483647, 
+   "regions": "PC", 
+   "thumbURL": "", 
+   "version": "1.0", 
+   "requirements": "", 
+   "useRegionName": false, 
+   "checksum": "b94bc962ee0103a357bdfa25808ba018" 
+}

@@ -1,0 +1,9 @@
+{
+	"id": "solar.pipelinecaverns",
+	"name": "Pipeline Caverns",
+	"version": "1.0",
+	"authors": "Solar",
+	"requirements": ["regionkit"],
+	"requirements_names": ["RegionKit"],
+	"checksum_override_version": false
+}

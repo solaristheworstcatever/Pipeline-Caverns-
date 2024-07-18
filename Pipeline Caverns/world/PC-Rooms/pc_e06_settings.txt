@@ -1,0 +1,11 @@
+Template: PC_SettingsTemplate_Surface
+CeilingDrips: 0
+WaveSpeed: 0.5992545
+WaveLength: 0.9503728
+WaveAmplitude: 0.01547064
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 245
+PlacedObjects: PlacedWind><139.8086><-79.75452><-65.45416~757.5111~851.0625~760.3555~794.8573~0~0.494926~Creatures~Vertical, PlacedWind><221.9998><690.4452><-98.8927~768.1778~727.9802~766.0444~718.0198~-7.822222~0.5258616~Creatures~Vertical, PlacedWind><269.8699><1469.274><-223.3979~770.3111~782.051~772.4444~651.1426~0~0.4896054~Creatures~Vertical, PlacedWind><136.0925><2238.104><-80.39481~767.4667~753.5927~766.7556~705.2136~0~0.4949274~Creatures~Vertical, PlacedWind><101.7024><3005.76><-69.72289~780.2667~919.3625~777.4222~792.0115~0~0.5258591~Creatures~Vertical, 
+FadePalette: 245, -1, -1, -1, -1, -1
+BackgroundOffset: -5000,-5000

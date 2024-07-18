@@ -1,0 +1,10 @@
+DangerType: Rain
+CeilingDrips: 0
+WaveSpeed: 0.5685008
+WaveLength: 0.9657496
+WaveAmplitude: 1.978057E-06
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 243
+FadePalette: 10, 0.8197239, 0.641859, 0.4871942
+WetTerrain: OFF

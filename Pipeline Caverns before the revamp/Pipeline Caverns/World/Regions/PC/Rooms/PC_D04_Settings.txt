@@ -1,0 +1,3 @@
+Template: PC_SettingsTemplate_Higher
+Clouds: 0.4565217
+FadePalette: 245, 0.2065217, 0.2282609, 0.1956522, 0.1956522

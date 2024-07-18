@@ -1,0 +1,3 @@
+Effects: SkyDandelions-0-20-20, 
+PlacedObjects: ExitSymbolHidden><728.9487><114.5226><, NoSpearStickZone><475.3011><240.73><-194~295, 
+FadePalette: 245, 0.8586956

@@ -1,0 +1,9 @@
+Template: NONE
+Clouds: 1
+Grime: 0.09782609
+Palette: 243
+EffectColorA: 19
+EffectColorB: 6
+Effects: ReplaceEffectColorA-0-756-344-Color-0.2391304-0-0, ReplaceEffectColorB-0-503-137-Color-0-0.173913-0, 
+PlacedObjects: LightSource><425.3508><347.3832><1~EffectColor1~0~100~50~86.60254~1~0, LightSource><315.6587><333.3717><0.2282609~EffectColor2~0~100~50~86.60254~1~0, 
+FadePalette: 0, 0

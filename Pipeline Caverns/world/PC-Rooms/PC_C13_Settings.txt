@@ -1,0 +1,8 @@
+Template: PC_SettingsTemplate_Higher
+WaveSpeed: 0.6930974
+WaveLength: 0.9034513
+WaveAmplitude: 3.128463E-07
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+FadePalette: 243, 0.7246943, 0.6720223, 0.5915536
+WetTerrain: OFF

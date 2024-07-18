@@ -1,0 +1,10 @@
+Template: NONE
+Clouds: 0.3043478
+Grime: 0.2717391
+Palette: 243
+EffectColorA: 19
+EffectColorB: 6
+Effects: Flies-0.1847826-20-20, ReplaceEffectColorA-0-452-329-Color-0.3152174-0-0, 
+PlacedObjects: CustomDecal><396.6682><523.1081><-157~427~315~454~305~14~-414~9~0.6304348~1~0~BigM~0.5108696~0.1956522~0.5108696~0.1956522~0.5108696~0.1956522~0.5108696~0.1956522, CustomDecal><324.694><1316.942><-99~545~475~595~350~-34~-347~317~0.3804348~1~0~TentacleHead~0.5543478~0.6847826~0.5543478~0.6847826~0.5543478~0.6847826~0.5543478~0.6847826, NeedleEgg><404.93><933.6628><0~0~4~9, Mushroom><613.8993><602.4228><0~0~2~3, Mushroom><618.1282><593.0914><-139~209~2~3, InsectGroup><497.9438><806.9506><252~207~0~0~Wasp~0.5, CustomDecal><631.3027><557.0327><0~-45~38~-42~40~0~5~271~0~1~0~UWshelter~1~0~1~0~1~0~1~0, LightSource><456.0632><2300.06><0.2826087~EffectColor2~0~100~50~86.60254~1~0, LightSource><537.3287><1448.568><0.2826087~EffectColor2~0~100~50~86.60254~1~0, LightSource><362.433><1601.42><0.3043478~EffectColor2~0~100~50~86.60254~1~0, LightSource><481.2125><500.4465><0.1521739~EffectColor2~0~100~120~-61.39746~1~0, LightSource><482.4399><530.3126><0.1956522~EffectColor2~0~100~-58~-132.3975~1~0, LightSource><580.8713><620.4031><0.2282609~EffectColor2~0~100~50~86.60254~1~0, InsectGroup><522.348><651.3701><-462~277~-955~-116~Beetle~0.3152174, InsectGroup><487.4339><1490.079><-518~201~0~0~GrassHopper~1, InsectGroup><498.0064><1570.55><-180~127~0~0~Beetle~0.3695652, 
+Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>SU_gate<eA>vol<eB>0.5391304<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>691.8029<tB>172.0338<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>111, 
+FadePalette: 241, 0.4891304, 0.5, 0.4673913

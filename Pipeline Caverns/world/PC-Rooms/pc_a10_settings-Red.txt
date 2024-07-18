@@ -1,0 +1,13 @@
+Template: PC_SettingsTemplate_Surface
+DangerType: Rain
+CeilingDrips: 0
+WaveSpeed: 0.5061891
+WaveLength: 0.9969054
+WaveAmplitude: 0.04611598
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Effects: AboveCloudsView-0.7934783-20-20, 
+FadePalette: 245, 1
+WetTerrain: OFF
+BackgroundOffset: -5000,-5000
+BackgroundType: atc_si_saint

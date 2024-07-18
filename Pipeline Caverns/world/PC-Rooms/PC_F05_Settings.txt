@@ -1,0 +1,4 @@
+Clouds: 0.09782609
+Effects: ReplaceEffectColorB-0-443-434-Color-0.4782609-0.6413044-0.3043478, 
+PlacedObjects: LightFixture><1732.619><203.6604><HolyFire~-1118.679~-234~100, LightFixture><1037.919><195.6427><HolyFire~-423.6795~-227~30, LightFixture><1429.637><350.5847><HolyFire~17.32051~-10~0, LightFixture><2203.802><188.9744><HolyFire~17.32051~-10~39, LightFixture><628.0535><151.9427><HolyFire~-1018.68~81~34, LightFixture><738.0515><432.2253><HolyFire~17.32051~-10~56, LightFixture><638.6461><971.4209><HolyFire~-1047.679~-186~28, LightFixture><614.0516><787.0255><HolyFire~17.32051~-10~28, 
+FadePalette: 242, 0, 0.09782609, 0.2282609, 0.2391304, 0.2282609, 0.1847826

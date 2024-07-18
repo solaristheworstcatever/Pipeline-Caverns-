@@ -1,0 +1,11 @@
+Template: PC_SettingsTemplate_Higher
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 245
+FadePalette: 243, 0.6650588, 0.6186595, 0.6031929, 0.5799932, 0.6186595, 0.6031929
+RoomSpecificScriptActive: ON
+WetTerrain: OFF

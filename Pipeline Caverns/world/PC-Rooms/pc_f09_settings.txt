@@ -1,0 +1,11 @@
+Template: PC_SettingsTemplate_Surface
+CeilingDrips: 0
+WaveSpeed: 0.6985741
+WaveLength: 0.900713
+WaveAmplitude: 3.674255E-12
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 245
+PlacedObjects: PlacedWind><-203.4626><-51.22742><0~757.5111~1366.158~760.3555~1369.004~-3.555555~-0.3968071~Creatures~Horizontal, PlacedWind><1165.364><-52.47542><-2.134369~765.3333~1023.235~761.7778~1021.813~-3.555556~-0.4949275~Creatures~Horizontal, PlacedWind><-202><718.0002><0~757.5111~1366.158~760.3555~1369.004~-3.555555~-0.3968071~Creatures~Horizontal, PlacedWind><1163><720.0002><0~757.5111~1366.158~760.3555~1369.004~-3.555555~-0.3968071~Creatures~Horizontal, PlacedWind><-203><1468><0~757.5111~1366.158~760.3555~1369.004~-3.555555~-0.3968071~Creatures~Horizontal, PlacedWind><1162><1481.003><2~757.5111~1366.158~760.3555~1369.004~-3.555555~-0.3968071~Creatures~Horizontal, SnowSource><439.7856><1871.803><None~724~367~50~86.60254~0.6946212~0.3721008, SnowSource><1514.37><1794.028><None~-689~446~50~86.60254~0.6030678~0.3541439, SnowSource><477.6535><1130.248><None~692~318~50~86.60254~0.1319408~0.1898558, SnowSource><1419.805><1145.295><None~761~342~50~86.60254~0.2087979~1, SnowSource><580.8442><316.8746><None~-784~392~50~86.60254~0.4586278~0.2717854, SnowSource><1439.09><367.808><None~745.6083~341.7778~50~86.60254~0.4818726~0.2397302, 
+Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>solar wind climb<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>698.7166<tB>169.5528<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>, 
+WetTerrain: OFF

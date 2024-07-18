@@ -1,0 +1,9 @@
+Template: NONE
+Clouds: 0.3695652
+Palette: 241
+EffectColorA: 19
+EffectColorB: 6
+Effects: Flies-0.1956522-20-20, ReplaceEffectColorA-0-515-140-Color-0.3478261-0-0, 
+PlacedObjects: LightSource><463.9086><295.3718><0.2282609~EffectColor2~0~100~-432~-406.3975~1~0, LightSource><711.7007><261.4438><0.2282609~EffectColor2~0~100~50~86.60254~1~0, InsectGroup><614.8569><264.419><-231~173~-589~-371~GrassHopper~1, CustomDecal><453.8066><248.8011><-1~190~332~180~309~-86~-486~26~0.5~1~0~MonkeyFace~0.5~0~0.5~0~0.5~0~0.5~0, InsectGroup><594.8495><281.6317><-280~164~0~0~Beetle~0.5, NoSpearStickZone><602.051><257.27><-645~329, 
+Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>SU_gate<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>711.3146<tB>174.925<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>111, 
+FadePalette: 243, 0.4021739
