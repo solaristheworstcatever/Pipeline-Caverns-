@@ -1,0 +1,6 @@
+[MERGE]
+WaveSpeed: 0.6766502
+WaveLength: 0.9116749
+WaveAmplitude: 1.561657E-13
+PlacedObjects: LanternOnStick><721.2846><3135.136><23.47815~-120.4445, LanternOnStick><355.0576><3025.269><19.20935~-134.6666, LightSource><369.4789><3641.852><1~Environment~0~100~50~86.60254~1~0~None~0~0, 
+[ENDMERGE]
