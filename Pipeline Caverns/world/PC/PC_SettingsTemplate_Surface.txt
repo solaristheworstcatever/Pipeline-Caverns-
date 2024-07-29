@@ -1,10 +1,10 @@
-DangerType: Blizzard
+DangerType: None
 CeilingDrips: 0
 RainIntensity: 1
 RumbleIntensity: 1
-WaveSpeed: 0.2593076
-WaveLength: 0.8796538
-WaveAmplitude: 7.827134E-09
+WaveSpeed: 0.7924188
+WaveLength: 0.8537906
+WaveAmplitude: 9.000001E-05
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.09013798
@@ -17,8 +17,7 @@ WaterReflectionAlpha: 1
 Palette: 245
 EffectColorA: 19
 EffectColorB: 6
-Effects: AboveCloudsView-1-20-20, Coldness-0.4045407-250.5521-0, Fog-1-4-102, ReplaceEffectColorA-0-312-199-Color-0.5543478-0.1195652-0.09782609, 
+Effects: Fog-0-30-30, AboveCloudsView-1-20-20, Coldness-0.4045407-250.5521-0, ReplaceEffectColorA-0-312-199-Color-0.5543478-0.1195652-0.09782609, 
 AmbientSounds: OMNI><AM_WIN-HowlingWnd.ogg><680.8288><510.9769><0.685598><0.8468816, OMNI><AM_WIN-SubWnd.ogg><684.4122><285.9383><0.6933315><1.626393, OMNI><AM_WIN-StrongWnd2.ogg><695.9366><349.9991><0.7165309><1, OMNI><AM_WIN_Hilltop.ogg><700.0214><429.7277><0.6778644><1.9, 
-FadePalette: 2, 0
-BackgroundOffset: -927.993,154.6675
-BackgroundType: atc_default_msc
+BackgroundOffset: -927.993,-2706.631
+BackgroundType: atc_si_saint
