@@ -1,8 +1,9 @@
 Template: PC_SettingsTemplate_Surface
+DangerType: Blizzard
 CeilingDrips: 0
-WaveSpeed: 0.5371944
-WaveLength: 0.9814028
-WaveAmplitude: 1.042136E-08
+WaveSpeed: 0.5459709
+WaveLength: 0.9770146
+WaveAmplitude: 0.0009233856
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Palette: 245
