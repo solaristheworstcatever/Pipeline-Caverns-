@@ -1,8 +1,8 @@
 Template: PC_SettingsTemplate_Surface
 CeilingDrips: 0
-WaveSpeed: 0.6820498
-WaveLength: 0.9089751
-WaveAmplitude: 9E-05
+WaveSpeed: 0.6684832
+WaveLength: 0.9157584
+WaveAmplitude: 0.001976724
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Palette: 245
@@ -10,4 +10,4 @@ EffectColorB: 18
 PlacedObjects: PlacedWind><-209.4218><-89.3407><0~755.3777~1373.984~759.6444~1373.273~-3.555556~-0.5103939~Creatures~Horizontal, PlacedWind><-204.45><681.2908><0~758.2222~1371.139~771.0222~1365.447~-1.422222~-0.5103939~Creatures~Horizontal, PlacedWind><-196.478><1453.409><-4.980208~758.9333~1360.467~766.7556~1368.293~-2.133333~-0.479461~Creatures~Horizontal, PlacedWind><-202.4659><2226.668><-12.09479~760.3555~1366.158~768.1778~1366.87~-0.7111111~-0.4949275~Creatures~Horizontal, SnowSource><469.0764><2608.986><None~688.6917~385.8666~50~86.60254~0.6133376~0.502661, SnowSource><418.6671><1780.87><None~751.2999~436.3556~50~86.60254~0.5360054~0.4639946, SnowSource><470.7375><1042.964><None~695.0948~402.9333~50~86.60254~0.5282726~0.4253288, SnowSource><523.6436><246.256><None~638.1782~-331.6444~50~86.60254~0.5360054~0.3093302, ExitSymbolHidden><907.3868><1500.724><, ExitSymbolHidden><905.4698><1582.708><, 
 FadePalette: 245, 0, 0, 0, 0
 WetTerrain: OFF
-BackgroundOffset: -927.993,-1981.427
+BackgroundOffset: -927.993,-1623.986

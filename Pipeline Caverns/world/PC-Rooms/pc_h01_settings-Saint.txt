@@ -1,9 +1,9 @@
 Template: PC_SettingsTemplate_Surface
 DangerType: Blizzard
 CeilingDrips: 0
-WaveSpeed: 0.5376116
-WaveLength: 0.9811942
-WaveAmplitude: 2.316247E-06
+WaveSpeed: 0.7529556
+WaveLength: 0.8735222
+WaveAmplitude: 2.218609E-05
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.1956522
@@ -14,4 +14,4 @@ AmbientSounds: OMNI><AM_WIN-HowlingWnd.ogg><580.4464><549.337><0.685598><0.84688
 Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>solar_breeze<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>0<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>1<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>672.3022<tB>375.2794<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>, 
 FadePalette: 245, 0, 0, 0, 0, 0, 0, 0, 0
 WetTerrain: OFF
-BackgroundOffset: -927.993,-604.0522
+BackgroundOffset: -927.993,-77.33553
