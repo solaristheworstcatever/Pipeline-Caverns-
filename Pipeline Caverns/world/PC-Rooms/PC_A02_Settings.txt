@@ -1,7 +1,7 @@
 CeilingDrips: 0
-WaveSpeed: 0.2851199
-WaveLength: 0.8925599
-WaveAmplitude: 0.0008908558
+WaveSpeed: 0.636494
+WaveLength: 0.931753
+WaveAmplitude: 8.378168E-10
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.326087
@@ -10,6 +10,6 @@ Palette: 243
 EffectColorA: 19
 EffectColorB: 6
 Effects: Flies-0.2826087-20-20, 
-PlacedObjects: InsectGroup><504.8022><366.2202><-2~121~-914~-474~FireFly~0.2826087, LightSource><614.4822><430.1992><1~EffectColor1~-167~42~-1059~-541.3975~1~0~None~0~0, LightSource><362.581><480.8171><1~EffectColor1~-170~79~-809~-591.3975~1~0~None~0~0, Mushroom><534.089><269.3687><-976~-387~2~3, Mushroom><561.0552><275.2049><-1003~-394~2~3, Mushroom><255.7263><322.3014><-481~-420~2~3, Mushroom><271.5503><325.4899><-335~-366~2~3, LightSource><308.1415><366.3913><0.2826087~EffectColor2~0~100~-874~-445.3975~1~0~None~0~0, LightSource><204.0536><347.7123><0.1521739~EffectColor2~0~100~-601~-438.3975~1~0~None~0~0, CustomDecal><427.95><280.2485><-11~278~154~281~147~-69~-558~5~0.3152174~1~0~AngularWhiteOLs~0.4456522~1~0.4456522~1~0.4456522~1~0.4456522~1, 
+PlacedObjects: InsectGroup><504.8022><366.2202><-2~121~-914~-474~FireFly~0.2826087, LightSource><614.4822><430.1992><1~EffectColor1~-167~42~-1059~-541.3975~1~0~None~0~0, LightSource><362.581><480.8171><1~EffectColor1~-170~79~-809~-591.3975~1~0~None~0~0, Mushroom><534.089><269.3687><-976~-387~2~3, Mushroom><561.0552><275.2049><-1003~-394~2~3, Mushroom><255.7263><322.3014><-481~-420~2~3, Mushroom><271.5503><325.4899><-335~-366~2~3, LightSource><308.1415><366.3913><0.2826087~EffectColor2~0~100~-874~-445.3975~1~0~None~0~0, LightSource><204.0536><347.7123><0.1521739~EffectColor2~0~100~-601~-438.3975~1~0~None~0~0, CustomDecal><427.95><280.2485><-11~278~154~281~147~-69~-558~5~0.3152174~1~0~AngularWhiteOLs~0.4456522~1~0.4456522~1~0.4456522~1~0.4456522~1, DangleFruit><433.6706><427.112><-273.2~-175.6444~2~3, DangleFruit><549.9464><352.65><0~0~2~3, DangleFruit><466.2454><465.7057><0~0~2~3, DangleFruit><495.9853><349.7568><0~0~2~3, DangleFruit><483.7247><388.2882><0~0~2~3, 
 FadePalette: 241, 0.2608696
 WetTerrain: OFF
