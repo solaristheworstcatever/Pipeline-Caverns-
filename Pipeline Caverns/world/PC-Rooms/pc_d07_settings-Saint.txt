@@ -1,16 +1,16 @@
 Template: PC_SettingsTemplate_Surface
 DangerType: Blizzard
 CeilingDrips: 0
-WaveSpeed: 0.6000206
-WaveLength: 0.9499897
-WaveAmplitude: 5.875921E-12
+WaveSpeed: 0.5849968
+WaveLength: 0.9575016
+WaveAmplitude: 5.238054E-13
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Palette: 245
 Effects: Coldness-0.4045407-250.5521-34.26666, 
 PlacedObjects: SnowSource><679.8462><341.6997><None~-296.6781~373.0667~50~86.60254~0.4432054~0.618659, SnowSource><624.5557><1814.91><None~-843.0781~1193.689~50~86.60254~0.4277397~0.5877274, 
 AmbientSounds: OMNI><AM_WIN-HowlingWnd.ogg><680.8288><510.9769><0.685598><0.8468816, OMNI><AM_WIN-SubWnd.ogg><684.4122><285.9383><0.6933315><1.626393, OMNI><AM_WIN-StrongWnd2.ogg><695.9366><349.9991><0.7165309><1, OMNI><AM_WIN_Hilltop.ogg><700.0214><429.7277><0.6778644><1.9, 
-Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>solar_climb<eA>vol<eB>0.4082648<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>0<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>1<eA>stopAtGate<eB>0<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>683.0928<tB>356.8795<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>, 
+Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>solar_climb<eA>vol<eB>0.2690668<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>0<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>1<eA>stopAtGate<eB>0<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>683.0928<tB>356.8795<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>, 
 FadePalette: 243, 0, 0, 0, 0
 WetTerrain: OFF
 BackgroundOffset: -927.993,-154.6678
