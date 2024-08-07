@@ -1,0 +1,10 @@
+Template: SU_SettingsTemplate_Inside
+CeilingDrips: 0
+WaveSpeed: 0.4932506
+WaveLength: 0.9966253
+WaveAmplitude: 8.100016E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+EffectColorB: 6
+FadePalette: 10, 0.1521739, 0.1630435, 0.173913
+WetTerrain: OFF
