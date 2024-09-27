@@ -13,7 +13,7 @@ Subregion: Temple
 Subregion: Surface
 Subregion: Mushroom Caverns
 Subregion: The Mountain
-Room Setting Templates: Inside, Higher, Surface
+Room Setting Templates: Inside, Higher, Surface, Mushroom
 Room_Attr: GATE_PC_SU: Vulture-Forbidden,KingVulture-Forbidden,
 Room_Attr: PC_A01: Vulture-Forbidden,KingVulture-Forbidden,
 Room_Attr: PC_C01: Vulture-Forbidden,KingVulture-Forbidden,

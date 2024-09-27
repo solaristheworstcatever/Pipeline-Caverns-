@@ -1,0 +1,20 @@
+DangerType: Rain
+CeilingDrips: 0
+RainIntensity: 1
+RumbleIntensity: 1
+WaveSpeed: 0.6898288
+WaveLength: 0.9050856
+WaveAmplitude: 3.477187E-15
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.09013798
+Grime: 0.2173913
+BkgDroneVolume: 0.3
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 1
+Palette: 243
+EffectColorA: 19
+EffectColorB: 14
+Effects: ReplaceEffectColorB-0-1073.378-413.3111-Color-0.2391304-0.5543478-0.7282609, ReplaceEffectColorA-0-469.6417-550.4889-Color-0.317063-0-0, Fog-0-230-69, 
