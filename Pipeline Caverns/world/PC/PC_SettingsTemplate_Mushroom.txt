@@ -2,19 +2,21 @@ DangerType: Rain
 CeilingDrips: 0
 RainIntensity: 1
 RumbleIntensity: 1
-WaveSpeed: 0.6898288
-WaveLength: 0.9050856
-WaveAmplitude: 3.477187E-15
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.09013798
 Grime: 0.2173913
-BkgDroneVolume: 0.3
-BkgDroneNoThreatVolume: 1
+BkgDroneVolume: 0
+BkgDroneNoThreatVolume: 0
 RandomItemDensity: 0.5
 RandomItemSpearChance: 0.2
 WaterReflectionAlpha: 1
 Palette: 243
 EffectColorA: 19
 EffectColorB: 14
-Effects: ReplaceEffectColorB-0-1073.378-413.3111-Color-0.2391304-0.5543478-0.7282609, ReplaceEffectColorA-0-469.6417-550.4889-Color-0.317063-0-0, Fog-0-230-69, 
+Effects: Darkness-0-20-20, ReplaceEffectColorB-0-1073.378-413.3111-Color-0.2391304-0.5543478-0.7282609, ReplaceEffectColorA-0-469.6417-550.4889-Color-0.317063-0-0, Fog-0-230-69, 
+AmbientSounds: OMNI><am_env-subterr.ogg><619.038><413.3321><0.3581397><1.9, OMNI><am_env-citytone.ogg><318.5461><362.5577><0.6314651><0.4710465, OMNI><am_env-forest.ogg><-17.85347><632.5072><0.6391987><0.220489, 
+FadePalette: 10, 0.5877264
