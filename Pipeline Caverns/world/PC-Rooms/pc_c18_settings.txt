@@ -1,0 +1,11 @@
+Template: PC_SettingsTemplate_Mushroom
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 14
+PlacedObjects: LightSource><2252.407><144.8833><1~EffectColor2~-283.1604~261.4222~50~86.60254~1~0~None~0~0, LightSource><2684.584><305.504><1~EffectColor2~-417.626~132~50~86.60254~1~0~None~0~0, LightSource><793.563><112.0711><1~EffectColor2~-242.6073~173.9555~50~86.60254~1~0~None~0~0, LightSource><1658.961><82.45152><1~EffectColor2~-426.875~259.9999~50~86.60254~1~0~None~0~0, LightSource><1553.994><348.9381><1~EffectColor2~-320.8677~127.7333~50~86.60254~1~0~None~0~0, LightSource><1244.588><205.9907><1~EffectColor2~-323.7135~244.3556~50~86.60254~1~0~None~0~0, LightSource><1078.213><366.3771><1~EffectColor2~-266.7969~169.6888~50~86.60254~1~0~None~0~0, LightSource><713.5453><582.818><1~EffectColor2~-424.0291~-133.2444~50~86.60254~1~0~None~0~0, LightSource><413.5414><332.7677><1~EffectColor2~-424.7407~136.2667~50~86.60254~1~0~None~0~0, LightSource><100.2039><479.9753><1~EffectColor2~-373.5156~132.7111~50~86.60254~1~0~None~0~0, LightSource><2191.21><348.4759><1~EffectColor2~491.6177~183.2~50~86.60254~1~0~None~0~0, LightSource><2586.575><11.161><1~EffectColor2~-466.7167~-13.06667~50~86.60254~1~0~None~0~0, LightSource><2801.992><589.9778><1~EffectColor2~-267.5083~-15.20001~50~86.60254~1~0~None~0~0, LightSource><2526.34><479.9738><1~EffectColor2~-369.2469~47.37781~50~86.60254~1~0~None~0~0, LightSource><993.1149><540.3779><1~EffectColor2~-44.82187~-279.7333~50~86.60254~1~0~None~0~0, LightSource><1520.837><571.2527><1~EffectColor2~-256.125~11.11115~50~86.60254~1~0~None~0~0, LightSource><1332.991><150.9312><1~EffectColor2~-244.7417~324~50~86.60254~1~0~None~0~0, 
+FadePalette: 10, 0.9768001, 0.9690668, 0.9690671
+WetTerrain: OFF
