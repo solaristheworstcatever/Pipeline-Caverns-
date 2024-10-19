@@ -1,0 +1,7 @@
+Template: PC_SettingsTemplate_Mushroom
+WaveSpeed: 0.5040942
+WaveLength: 0.7479529
+WaveAmplitude: 0.00509
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+WetTerrain: OFF
