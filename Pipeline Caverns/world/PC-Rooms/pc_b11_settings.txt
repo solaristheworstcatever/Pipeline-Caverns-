@@ -1,11 +1,11 @@
 Template: PC_SettingsTemplate_Mushroom
 CeilingDrips: 0
-WaveSpeed: 0.5041613
-WaveLength: 0.7479193
-WaveAmplitude: 0.00509
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Palette: 10
-PlacedObjects: LightSource><13.56792><303.4085><1~EffectColor2~599.048~167.5556~-223.2~126.4247~0~0~None~0~0, LightSource><412.5673><58.60508><1~EffectColor2~-480.9459~402.2223~50~86.60254~0~0~None~0~0, LightSource><677.0521><298.7885><1~EffectColor2~-309.4844~75.8222~50~86.60254~0~0~None~0~0, LightSource><972.2433><500.7304><1~EffectColor2~-301.6584~143.3777~50~86.60254~0~0~None~0~0, LightSource><490.5665><1095.236><0.1648095~EffectColor2~-688.6917~392.9778~50~86.60254~0~0~None~0~0, LightSource><231.3672><932.7449><1~EffectColor2~-199.9198~122.7556~50~86.60254~0~0~None~0~0, LightSource><-33.66182><907.2211><1~EffectColor2~-220.5521~291.2889~50~86.60254~0~0~None~0~0, LightSource><887.0441><996.2213><1~EffectColor2~-375.65~103.5556~50~86.60254~0~0~None~0~0, LightSource><457.9628><1198.396><1~EffectColor2~-209.1688~136.9778~50~86.60254~0~0~None~0~0, LightSource><-116.8948><1169.237><1~EffectColor2~17.78645~215.9111~50~86.60254~0~0~None~0~0, LightSource><1024.527><975.0681><1~EffectColor2~-419.0489~172.5333~50~86.60254~0~0~None~0~0, LightSource><396.2074><822.3169><0.814402~EffectColor2~-250.4333~176.0889~50~86.60254~1~0~None~0~0, 
-FadePalette: 245, 0, 0
+PlacedObjects: LightSource><501.9571><1036.195><0.2826087~EffectColor2~-691~415~50~86.60254~0~0~None~0~0, LightSource><410.177><1212.093><0.4456522~EffectColor2~-376~121~50~86.60254~0~0~None~0~0, LightSource><586.0246><925.9485><0.2826087~EffectColor2~-522~479~50~86.60254~0~0~None~0~0, LightSource><457.0654><372.939><1~EffectColor2~-660~382~-318~-128.3975~0~0~None~0~0, LightSource><84.50891><63.9498><0.4130435~EffectColor2~345~11~50~86.60254~0~0~None~0~0, LightSource><789.3859><286.3967><0.7608696~EffectColor2~-573~255~50~86.60254~0~0~None~0~0, LightSource><121.804><430.7105><0.7391304~EffectColor2~468~38~50~86.60254~0~0~None~0~0, LightSource><487.5503><504.5105><0.7065217~EffectColor2~-631~88~50~86.60254~0~0~None~0~0, LightSource><322.0701><682.4126><0.4673913~EffectColor2~-575~-111~50~86.60254~0~0~None~0~0, LightSource><1131.668><140.608><1~EffectColor2~-892~9~50~86.60254~0~0~None~0~0, LightSource><311.8794><141.5975><0.7065217~EffectColor2~-486~278~-622~88.60254~0~0~None~0~0, LightSource><502.1991><747.731><0.5869565~EffectColor2~-787~-24~50~86.60254~0~0~None~0~0, 
+FadePalette: 2, 0, 0
 WetTerrain: OFF
