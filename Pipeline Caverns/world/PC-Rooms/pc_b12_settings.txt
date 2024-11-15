@@ -1,11 +1,11 @@
 Template: PC_SettingsTemplate_Mushroom
 CeilingDrips: 0
-WaveSpeed: 0.5664442
-WaveLength: 0.9667779
-WaveAmplitude: 4.491274E-13
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Palette: 110
-PlacedObjects: LightSource><513.2906><1051.196><0.326087~EffectColor2~-720~503~50~86.60254~0~0~None~0~0, LightSource><554.5527><1261.967><0.5869568~EffectColor2~-291~110~50~86.60254~0~0~None~0~0, LightSource><330.9601><933.054><0.5652174~EffectColor2~-236~160~548.0001~239.6025~0~0~None~0~0, LightSource><381.1669><1141.318><0.4782609~EffectColor2~-168~134~50~86.60254~0~0~None~0~0, LightSource><706.4471><839.0339><0.5108696~EffectColor2~-208~147~50~86.60254~0~0~None~0~0, BubbleGrass><731.2986><1263.306><0~0~4~9, BubbleGrass><764.4163><1266.639><0~0~4~9, BubbleGrass><701.1029><1255.615><0~0~4~9, LightSource><489.2106><313.5539><0.3369565~EffectColor2~-692~438~50~86.60254~0~0~None~0~0, LightSource><252.3145><553.3107><0.6847826~EffectColor2~-368~61~50~86.60254~0~0~None~0~0, LightSource><45.94861><47.72639><0.5434783~EffectColor2~-191~498~50~86.60254~0~0~None~0~0, LightSource><876.45><58.30634><0.5978261~EffectColor2~-532~230~-46~75.60254~0~0~None~0~0, LightSource><1005.947><414.7848><0.5326087~EffectColor2~-417~93~50~86.60254~0~0~None~0~0, LightSource><710.3191><589.4377><0.4673913~EffectColor2~-291~-146~50~86.60254~0~0~None~0~0, LightSource><-150.1974><471.0323><0.5760869~EffectColor2~39~238~50~86.60254~0~0~None~0~0, 
-FadePalette: 10, -1, -1
+PlacedObjects: LightSource><513.2906><1051.196><0.326087~EffectColor2~-720~503~50~86.60254~0~0~None~0~0, LightSource><554.5527><1261.967><0.5869568~EffectColor2~-291~110~50~86.60254~0~0~None~0~0, LightSource><330.9601><933.054><0.5652174~EffectColor2~-236~160~548.0001~239.6025~0~0~None~0~0, LightSource><381.1669><1141.318><0.4782609~EffectColor2~-168~134~50~86.60254~0~0~None~0~0, LightSource><706.4471><839.0339><0.5108696~EffectColor2~-208~147~50~86.60254~0~0~None~0~0, BubbleGrass><731.2986><1263.306><0~0~4~9, BubbleGrass><764.4163><1266.639><0~0~4~9, BubbleGrass><701.1029><1255.615><0~0~4~9, LightSource><489.2106><313.5539><0.3369565~EffectColor2~-692~438~50~86.60254~0~0~None~0~0, LightSource><252.3145><553.3107><0.6847826~EffectColor2~-368~61~50~86.60254~0~0~None~0~0, LightSource><45.94861><47.72639><0.5434783~EffectColor2~-191~498~50~86.60254~0~0~None~0~0, LightSource><876.45><58.30634><0.5978261~EffectColor2~-532~230~-46~75.60254~0~0~None~0~0, LightSource><1005.947><414.7848><0.5326087~EffectColor2~-417~93~50~86.60254~0~0~None~0~0, LightSource><710.3191><589.4377><0.4673913~EffectColor2~-291~-146~50~86.60254~0~0~None~0~0, LightSource><-150.1974><471.0323><0.5760869~EffectColor2~39~238~50~86.60254~0~0~None~0~0, HazerMom><304.1387><1042.166><0~0~7~10, 
+FadePalette: 10, 0, 0
 WetTerrain: OFF
