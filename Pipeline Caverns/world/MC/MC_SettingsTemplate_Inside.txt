@@ -1,0 +1,22 @@
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 1
+RumbleIntensity: 1
+WaveSpeed: 0.5348105
+WaveLength: 0.9825947
+WaveAmplitude: 8.123882E-13
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.3152174
+Grime: 0.3043478
+BkgDroneVolume: 0.3
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 1
+Palette: 243
+EffectColorA: 19
+EffectColorB: 6
+Effects: Flies-0.326087-20-20, ReplaceEffectColorB-0.02173913-634-319-Color-0.25-0.2826087-0.08695652, ReplaceEffectColorA-0-452-329-Color-0.3152174-0-0, 
+AmbientSounds: OMNI><so_wat-lightflow.ogg><48.47243><468.0519><0.5760869><0.4913043, OMNI><AM_ENV-Woods.ogg><728.9408><368.5599><0.5><0.7652174, OMNI><AM_IND-DeepHum.ogg><717.3522><309.1153><0><1, OMNI><AM_ENV-CricketsWnd.ogg><728.9489><549.2708><0.5><1, OMNI><AM_SUB-MysticCave2.ogg><741.3187><225.3343><0><1, OMNI><AM_SUB-MysticCave1.ogg><588.6956><35.95799><0><1, OMNI><AM_ENV-WinterTrees.ogg><249.3><434.7532><0.7717391><1, OMNI><AM_ENV-Forest.ogg><449.4441><386.5483><0.6195652><1, 
+FadePalette: 245, 0.2934783

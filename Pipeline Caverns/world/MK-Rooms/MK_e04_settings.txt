@@ -1,0 +1,10 @@
+Template: PC_SettingsTemplate_Higher
+DangerType: None
+CeilingDrips: 0
+WaveSpeed: 0.6986185
+WaveLength: 0.9006907
+WaveAmplitude: 1.348391E-13
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+PlacedObjects: LightSource><3318.671><2072.184><0.2717391~EffectColor2~0~100~50~86.60254~0~0~None~0~0, LightSource><3358.924><2045.099><0.25~EffectColor2~0~100~50~86.60254~0~0~None~0~0, LightSource><3704.778><2076.802><0.25~EffectColor2~0~100~50~86.60254~0~0~None~0~0, LightSource><3663.644><2073.169><0.2391304~EffectColor2~0~100~50~86.60254~0~0~None~0~0, LightSource><3071.8><2054.806><0.2934783~EffectColor2~0~100~50~86.60254~0~0~None~0~0, LightSource><3129.738><2087.2><0.2173913~EffectColor2~0~100~50~86.60254~0~0~None~0~0, 
+WetTerrain: OFF
