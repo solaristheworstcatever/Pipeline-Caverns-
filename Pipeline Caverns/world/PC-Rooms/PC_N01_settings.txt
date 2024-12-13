@@ -1,8 +1,8 @@
 Template: PC_SettingsTemplate_Surface
 CeilingDrips: 0
-WaveSpeed: 0.7995093
-WaveLength: 0.8502454
-WaveAmplitude: 0.0009181527
+WaveSpeed: 0.7896512
+WaveLength: 0.8551744
+WaveAmplitude: 0.001104644
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Palette: 245
@@ -10,4 +10,4 @@ PlacedObjects: PlacedWind><2232.234><-44.85883><1.422913~765.3333~6070.32~770.31
 Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>solar_breeze3<eA>vol<eB>0.624797<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>0<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>1<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>705.2037<tB>166.8642<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>, 
 FadePalette: 245, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
 WetTerrain: OFF
-BackgroundOffset: -927.993,-1237.318
+BackgroundOffset: -927.993,-1546.648

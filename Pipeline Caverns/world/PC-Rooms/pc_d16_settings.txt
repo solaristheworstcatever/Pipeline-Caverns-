@@ -1,0 +1,10 @@
+Template: PC_SettingsTemplate_Higher
+CeilingDrips: 0
+WaveSpeed: 0.6729624
+WaveLength: 0.9135188
+WaveAmplitude: 3.687298E-06
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+PlacedObjects: LightSource><869.3293><1089.23><1~EffectColor1~0~100~50~86.60254~0~0~None~0~0, LightSource><1691.72><1081.072><1~EffectColor1~0~100~50~86.60254~0~0~None~0~0, LightSource><1635.404><694.2417><1~EffectColor1~0~100~50~86.60254~0~0~None~0~0, LightSource><1123.011><963.4236><0.2962753~EffectColor2~0~100~50~86.60254~0~0~None~0~0, LightSource><1403.669><1376.053><0.3890733~EffectColor2~0~100~50~86.60254~0~0~None~0~0, LightSource><1141.891><1401.655><0.2344088~EffectColor2~0~100~50~86.60254~0~0~None~0~0, LightSource><1584.119><1391.177><0.2885417~EffectColor2~0~100~50~86.60254~0~0~None~0~0, LightSource><1665.592><1359.603><0.2962746~EffectColor2~0~100~50~86.60254~0~0~None~0~0, LightSource><930.4457><887.3136><0.3194746~EffectColor2~0~100~50~86.60254~0~0~None~0~0, LightSource><1779.085><940.0165><0.3426739~EffectColor2~0~100~50~86.60254~0~0~None~0~0, LightSource><1584.215><951.3342><0.2730753~EffectColor2~0~100~50~86.60254~0~0~None~0~0, LightSource><475.7454><1068.189><0.4122732~EffectColor2~0~100~50~86.60254~0~0~None~0~0, LightSource><417.4073><1120.095><0.2421424~EffectColor2~0~100~50~86.60254~0~0~None~0~0, LightSource><534.235><1027.213><0.3968068~EffectColor2~0~100~50~86.60254~0~0~None~0~0, 
+FadePalette: 245, 0.3247963, 0.3170629, 0.2938632, 0.2861298
+WetTerrain: OFF

@@ -1,0 +1,10 @@
+Template: PC_SettingsTemplate_Higher
+CeilingDrips: 0
+WaveSpeed: 0.2878588
+WaveLength: 0.8939294
+WaveAmplitude: 0.007593885
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+PlacedObjects: NoSpearStickZone><479.0601><229.7718><680.1542~420, 
+FadePalette: 245, 0.4717278
+WetTerrain: OFF

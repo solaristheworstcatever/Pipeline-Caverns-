@@ -1,8 +1,8 @@
 Template: PC_SettingsTemplate_Surface
 CeilingDrips: 0
-WaveSpeed: 0.51
-WaveLength: 1
-WaveAmplitude: 0.0001
+WaveSpeed: 0.7480174
+WaveLength: 0.8759913
+WaveAmplitude: 2.609634E-05
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Palette: 245
@@ -10,4 +10,4 @@ PlacedObjects: PlacedWind><105.3281><-45.43843><-113.1219~755.3777~811.2208~758.
 FadePalette: 245, 0, 0, 0, 0
 RoomSpecificScriptActive: ON
 WetTerrain: OFF
-BackgroundOffset: -927.993,-2568.718
+BackgroundOffset: -927.993,-2723.382

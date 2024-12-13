@@ -1,12 +1,12 @@
 Template: PC_SettingsTemplate_Surface
 CeilingDrips: 0
-WaveSpeed: 0.4745285
-WaveLength: 0.9872642
-WaveAmplitude: 9.724865E-09
+WaveSpeed: 0.2384074
+WaveLength: 0.8692037
+WaveAmplitude: 0.0001569053
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Effects: AboveCloudsView-0.7934783-20-20, 
 PlacedObjects: SnowSource><518.8554><277.6382><Radial~-721~437~50~86.60254~0.8695652~0.7826087, 
 FadePalette: 245, 1
 WetTerrain: OFF
-BackgroundOffset: -5000,-869.5653
+BackgroundOffset: -5000,-1256.23
