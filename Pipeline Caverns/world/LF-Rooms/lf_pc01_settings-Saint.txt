@@ -1,0 +1,12 @@
+Template: LF_SettingsTemplate_Farms
+DangerType: Blizzard
+CeilingDrips: 0
+WaveSpeed: 0.3494803
+WaveLength: 0.9247401
+WaveAmplitude: 0.0001143615
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 0
+PlacedObjects: SnowSource><2529.741><321.9736><Radial~690.1146~410.0444~50~86.60254~0.682937~0.185598, SnowSource><1519.122><352.4669><Radial~687.2688~387.2889~50~86.60254~0.6210712~0.3402624, SnowSource><475.6557><383.6956><Radial~703.6323~353.8666~50~86.60254~0.5901377~0.4485281, SnowSource><3055.866><226.1199><Radial~-271.7771~166.8445~50~86.60254~0.6133383~0.3479959, SnowSource><114.879><285.1382><Radial~389.1677~265.6889~50~86.60254~0.396807~0.2938633, 
+FadePalette: 14, 0.2474637, 0.1469317, 0.1701312
+WetTerrain: OFF

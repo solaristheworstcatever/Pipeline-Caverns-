@@ -1,8 +1,8 @@
 Template: PC_SettingsTemplate_Surface
 CeilingDrips: 0
-WaveSpeed: 0.4135431
-WaveLength: 0.9567716
-WaveAmplitude: 9.007373E-05
+WaveSpeed: 0.6432833
+WaveLength: 0.9283583
+WaveAmplitude: 8.249959E-12
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Palette: 245

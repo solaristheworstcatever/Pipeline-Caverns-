@@ -1,9 +1,9 @@
 Template: PC_SettingsTemplate_Surface
 DangerType: Blizzard
 CeilingDrips: 0
-WaveSpeed: 0.2983602
-WaveLength: 0.8991801
-WaveAmplitude: 0.0001370618
+WaveSpeed: 0.1876978
+WaveLength: 0.8438489
+WaveAmplitude: 1.390287E-07
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.907201
@@ -11,4 +11,4 @@ Palette: 245
 PlacedObjects: SnowSource><498.7846><331.3591><None~-700.7864~387.2889~50~86.60254~0.5437383~0.6341254, SnowSource><817.8059><1128.664><None~-630.3521~361.6889~50~86.60254~0.497339~0.6341261, SnowSource><1401.975><1853.643><None~-663.7906~413.6~50~86.60254~0.4200068~0.6727918, SnowSource><1907.348><1167.107><None~-683.7115~339.6444~50~86.60254~0.5360054~0.6805254, SnowSource><2521.663><376.9209><None~-679.4427~351.7333~50~86.60254~0.5746719~0.6882583, 
 FadePalette: 245, 0.2474636, 0.3634624, 0.4175951, 0.3557291, 0.2319971
 WetTerrain: OFF
-BackgroundOffset: -927.993,-1005.322
+BackgroundOffset: -927.993,-1391.983

@@ -1,0 +1,12 @@
+Template: PC_SettingsTemplate_Higher
+DangerType: None
+CeilingDrips: 0
+WaveSpeed: 0.4699631
+WaveLength: 0.9849815
+WaveAmplitude: 9.00009E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Effects: FireFlies-0-30-30, Flies-0-40-40, 
+PlacedObjects: LightSource><1404.976><1263.699><1~EffectColor2~271~159~50~86.60254~0~0~None~0~0, LightSource><1748.939><875.9406><1~EffectColor2~-226~115~50~86.60254~0~0~None~0~0, LightSource><1632.807><598.4418><1~EffectColor2~-313~101~50~86.60254~0~0~None~0~0, LightSource><1635.871><368.6528><1~EffectColor2~-226~98~50~86.60254~0~0~None~0~0, LightSource><1955.651><434.6736><1~EffectColor2~185~323~50~86.60254~0~0~None~0~0, LightSource><293.3824><351.3999><1~EffectColor2~225~132~50~86.60254~0~0~None~0~0, LightSource><-24.74445><569.8><1~EffectColor2~219~108~50~86.60254~0~0~None~0~0, LightSource><-8.247559><384.45><1~EffectColor2~328~108~50~86.60254~0~0~None~0~0, LightSource><359.8905><703.8577><1~EffectColor2~-283~43~50~86.60254~0~0~None~0~0, 
+FadePalette: 245, 0.2826087, 0.2717391, 0.2391304, 0.1304348, 0.1413043
+WetTerrain: OFF

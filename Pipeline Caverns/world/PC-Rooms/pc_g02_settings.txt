@@ -1,11 +1,12 @@
 Template: PC_SettingsTemplate_Surface
 DangerType: None
 CeilingDrips: 0
-WaveSpeed: 0.5030091
-WaveLength: 0.9984955
-WaveAmplitude: 0.04352355
+WaveSpeed: 0.6927692
+WaveLength: 0.9036154
+WaveAmplitude: 9.297409E-05
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 PlacedObjects: PlacedWind><348.9151><-32.58789><-63.31982~759.6444~372.251~768.8889~252.0146~-2.844445~1~Creatures~Vertical, PlacedWind><305.6207><736.11><22.05521~768.1778~549.4042~764.6222~439.1281~1.422222~1~Creatures~Vertical, SnowSource><477.1823><100.56><Radial~-501.5781~253.6~50~86.60254~0.5746712~0.5103939, PlacedWind><350.1372><1512.442><-90.35522~757.5111~493.9105~763.9111~397.8636~-4.977778~1~Creatures~Vertical, PlacedWind><312.4283><2273.451><-79.68335~776~619.1271~777.4222~527.3489~0~1~Creatures~Vertical, PlacedWind><214.3176><3046.914><-13.51773~773.8666~785.6083~771.0222~759.9958~-2.844445~1~Creatures~Vertical, PlacedWind><194.0003><3821.159><54.78229~764.6222~634.7792~774.5778~469.0093~0~1~Creatures~Vertical, 
 FadePalette: 2, 0.4818729, 0.4558766, 0.4017437, 0.3012115, 0.1852128, 0.1237319, 0.06186593
 WetTerrain: OFF
+BackgroundOffset: -927.993,-2800.714

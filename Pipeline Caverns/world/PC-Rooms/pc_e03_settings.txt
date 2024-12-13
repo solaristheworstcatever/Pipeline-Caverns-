@@ -1,12 +1,12 @@
 Template: PC_SettingsTemplate_Surface
 CeilingDrips: 0
-WaveSpeed: 0.6027797
-WaveLength: 0.9486101
-WaveAmplitude: 0.0006995201
+WaveSpeed: 0.4383166
+WaveLength: 0.9691583
+WaveAmplitude: 1.839936E-08
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.09013798
 PlacedObjects: PlacedWind><3853.67><-39.39417><8~763~1379~760~1370~-2~-0.304778~Creatures~Horizontal, PlacedWind><2846.803><-36.53625><-1~761~998~761~994~-6~-0.3913044~Creatures~Horizontal, PlacedWind><1823.083><-46.60976><-1~765~1003~767~1008~-4~-0.3913044~Creatures~Horizontal, PlacedWind><803.8408><-50.871><0~763~998~767~1003~0~-0.3913044~Creatures~Horizontal, PlacedWind><-203.3238><-48.70419><0~759.6444~998.3344~761.7778~998.3344~-5.688889~-0.386662~Creatures~Horizontal, SnowSource><596.3687><355.9469><None~-799.6791~363.8222~50~86.60254~0.4818726~0.4973383, SnowSource><1506.48><344.941><None~-691.5375~363.8222~50~86.60254~0.8762684~0.1314651, SnowSource><2594.775><418.883><Radial~-767.6635~298.4~50~86.60254~0.8376014~0.3789295, SnowSource><3563.379><407.2332><None~642.4469~-458.2222~50~86.60254~0.6365383~0.3247959, SnowSource><4561.816><346.3325><None~667.348~373.7778~50~86.60254~0.5592054~0.5258603, 
 FadePalette: 2, 0, 0, 0, 0, 0
 WetTerrain: OFF
-BackgroundOffset: -927.993,-1314.657
+BackgroundOffset: -927.993,-1778.651
