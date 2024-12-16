@@ -1,9 +1,0 @@
-Template: PC_SettingsTemplate_Mushroom
-CeilingDrips: 0
-WaveSpeed: 0.5664346
-WaveLength: 0.9667827
-WaveAmplitude: 4.601742E-12
-SecondWaveLength: 1
-SecondWaveAmplitude: 0.0001
-PlacedObjects: LightSource><584.125><286.2769><0.2730746~EffectColor2~-729.2448~454.1333~50~86.60254~0~0~None~0~0, LightSource><70.31766><339.3954><1~EffectColor2~201.3427~127.0222~50~86.60254~0~0~None~0~0, LightSource><529.5956><21.69061><0.7061369~EffectColor2~-241.1844~307.6445~425.65~21.18032~0~0~None~0~0, LightSource><241.92><255.3092><0.543739~EffectColor2~39.13022~205.2444~50~86.60254~0~0~None~0~0, LightSource><802.8681><296.939><0.1880095~EffectColor2~-301.6583~218.7556~50~86.60254~0~0~None~0~0, LightSource><1063.3><190.0235><0.5050725~EffectColor2~-303.7927~157.6001~50~86.60254~0~0~None~0~0, LightSource><48.75816><193.628><0.5669383~EffectColor2~186.4021~288.4444~50~86.60254~0~0~None~0~0, BubbleGrass><477.9214><195.6541><0~0~4~9, BubbleGrass><650.2735><265.8592><0~0~4~9, BubbleGrass><383.855><254.7845><0~0~4~9, BubbleGrass><389.8626><120.199><0~0~4~9, 
-WetTerrain: OFF

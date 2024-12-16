@@ -1,7 +1,0 @@
-Grime: 0.2391304
-RandomItemDensity: 0
-RandomItemSpearChance: 0
-Palette: 245
-EffectColorB: 10
-Effects: Fog-1-20-20, SkyDandelions-0-276-271, Flies-0-273-184, 
-FadePalette: 2, 0.2065217, 0.2065217, 0.2717391, 0.326087, 0.4021739

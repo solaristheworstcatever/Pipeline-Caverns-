@@ -1,9 +1,0 @@
-CeilingDrips: 0
-WaveSpeed: 0.6540216
-WaveLength: 0.9229892
-WaveAmplitude: 9.000007E-05
-SecondWaveLength: 1
-SecondWaveAmplitude: 0.0001
-Palette: 0
-FadePalette: 14, 0.5799932
-WetTerrain: OFF

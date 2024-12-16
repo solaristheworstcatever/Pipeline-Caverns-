@@ -1,9 +1,0 @@
-Template: PC_SettingsTemplate_Mushroom
-CeilingDrips: 0
-WaveSpeed: 0.51
-WaveLength: 1
-WaveAmplitude: 0.0001
-SecondWaveLength: 1
-SecondWaveAmplitude: 0.0001
-PlacedObjects: LightSource><2466.052><371.9678><0.2826087~EffectColor2~747~356~50~86.60254~0~0~None~0~0, LightSource><2169.914><460.5693><0.5108696~EffectColor2~335~134~50~86.60254~0~0~None~0~0, LightSource><2781.321><599.9108><0.4891304~EffectColor2~207~144~50~86.60254~0~0~None~0~0, LightSource><1560.167><373.8897><0.2934783~EffectColor2~-727~357~50~86.60254~0~0~None~0~0, LightSource><2024.293><524.0546><0.5869565~EffectColor2~199~220~50~86.60254~0~0~None~0~0, LightSource><1261.108><416.9181><0.5869565~EffectColor2~319~186~50~86.60254~0~0~None~0~0, LightSource><992.8188><328.4153><0.4347826~EffectColor2~314~197~50~86.60254~0~0~None~0~0, LightSource><530.4121><402.3204><0.4021739~EffectColor2~-705~327~287~34.60254~0~0~None~0~0, LightSource><329.5383><434.8037><0.4456522~EffectColor2~237~106~50~86.60254~0~0~None~0~0, LightSource><755.767><460.0507><0.3369565~EffectColor2~244~154~50~86.60254~0~0~None~0~0, PCPlayerSensitiveLightSource><1790.969><6.86985><0~1~0.5~EffectColor2~-251.1448~137.6889~-180.7104~141.5111~50~86.60254~0, 
-WetTerrain: OFF

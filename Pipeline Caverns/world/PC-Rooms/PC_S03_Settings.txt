@@ -1,4 +1,0 @@
-Template: PC_SettingsTemplate_Higher
-Palette: 245
-PlacedObjects: LightSource><547.5079><300.8002><0.2826082~EffectColor2~0~100~50~86.60254~1~0, LightSource><582.4164><311.8184><0.2717391~EffectColor2~0~100~50~86.60254~1~0, 
-FadePalette: 243, 0.5217391

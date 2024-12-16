@@ -1,5 +1,0 @@
-Grime: 0.2282609
-RandomItemDensity: 0
-RandomItemSpearChance: 0
-Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>solar_wind<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>734.1945<tB>215.5467<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>111<tA>pos<tB>1467.195<tB>569.5467<tA>handlePos<tB>-263.3553<tB>-97.35535, 
-FadePalette: 245, 0.2065217, 0.1521739, 0.1086956

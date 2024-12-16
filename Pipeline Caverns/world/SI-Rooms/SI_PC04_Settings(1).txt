@@ -1,4 +1,0 @@
-Grime: 0.2282609
-RandomItemDensity: 0
-RandomItemSpearChance: 0
-FadePalette: 245, 0.2065217, 0.1521739, 0.1086956

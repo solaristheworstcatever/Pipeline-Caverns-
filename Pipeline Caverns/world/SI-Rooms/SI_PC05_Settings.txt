@@ -1,3 +1,0 @@
-Grime: 0.2717391
-Effects: Fog-0.6086956-20-20, SkyDandelions-0.25-52-125, 
-FadePalette: 245, 0.4565217, 0.3586957
