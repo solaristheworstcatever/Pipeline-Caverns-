@@ -1,10 +1,16 @@
-Template: PC_SettingsTemplate_Mushroom
+Template: PC_SettingsTemplate_Surface
+DangerType: Blizzard
 CeilingDrips: 0
-WaveSpeed: 0.51
-WaveLength: 1
-WaveAmplitude: 0.0001
+WaveSpeed: 0.7179638
+WaveLength: 0.8910181
+WaveAmplitude: 3.698019E-14
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
-PlacedObjects: LightSource><1792.971><183.5448><0.4432068~EffectColor2~406.2428~536.6222~50~86.60254~0~0~None~0~0, LightSource><1369.934><282.6259><1~EffectColor2~-108.1416~290.5778~-364.0688~204.647~0~0~None~0~0, LightSource><1494.552><999.104><0.2808083~EffectColor2~383.476~368.8~-606.676~229.5359~0~0~None~0~0, LightSource><1374.659><1228.388><1~EffectColor2~337.2312~-40.0889~50~86.60254~0~0~None~0~0, LightSource><1792.173><122.0806><1~EffectColor2~-176.4417~164.7111~50~86.60254~0~0~None~0~0, LightSource><1565.193><392.5054><0.4277397~EffectColor1~0~100~50~86.60254~0~0~None~0~0, LightSource><1642.81><880.8989><1~EffectColor2~-257.5479~181.0667~50~86.60254~1~0~None~0~0, LightSource><1804.323><1103.287><0.8762698~EffectColor2~-181.4218~61.60004~50~86.60254~0~0~None~0~0, LightSource><1414.225><595.8668><1~EffectColor2~-204.1886~144.8~50~86.60254~0~0~None~0~0, LightSource><460.7461><165.05><1~EffectColor2~-228~181~-595~124.6025~0~0~None~0~0, LightSource><287.9155><258.1377><1~EffectColor2~-190~179~-231~268.6025~0~0~None~0~0, LightSource><471.3578><278.3594><1~EffectColor2~0~100~248~239.6025~0~0~None~0~0, LightSource><312.623><472.4077><1~EffectColor2~-228~9~50~86.60254~0~0~None~0~0, LightSource><163.2247><758.522><1~EffectColor2~-225~175~-488.5739~161.2692~0~0~None~0~0, LightSource><497.9108><779.381><1~EffectColor2~-307.1343~26.53334~422.8042~93.71365~0~0~None~0~0, LightSource><421.766><1508.199><1~EffectColor2~369~-265~50~86.60254~1~0~None~0~0, LightSource><344.6992><1145.518><1~EffectColor2~-155~76~50~86.60254~0~0~None~0~0, LightSource><617.2206><369.3022><1~EffectColor2~-228~133~50~86.60254~0~0~None~0~0, LightSource><517.9619><1319.117><1~EffectColor2~-219~-61~50~86.60254~0~0~None~0~0, BubbleGrass><500.1357><992.2188><0~0~0~8, BubbleGrass><529.1001><924.6226><0~0~4~9, LightSource><1651.962><1472.772><1~EffectColor2~-305.9271~70.13333~50~86.60254~0~0~None~0~0, LightSource><590.4167><1084.324><1~EffectColor2~-266.0854~129.1556~50~86.60254~0~0~None~0~0, LightSource><162.3615><1056.779><1~EffectColor2~-196.3625~88.62219~50~86.60254~0~0~None~0~0, PCPlayerSensitiveLightSource><1081.737><40.64684><0~1~0.5~EffectColor2~-268.2198~250.0444~170.7499~225.4222~50~86.60254~0, 
-FadePalette: 10, 1, 1, 1, 1
+Palette: 245
+Effects: Coldness-0.4045407-250.5521-34.26666, 
+PlacedObjects: SnowSource><679.8462><341.6997><None~-296.6781~373.0667~50~86.60254~0.4432054~0.618659, SnowSource><624.5557><1814.91><None~-843.0781~1193.689~50~86.60254~0.4277397~0.5877274, 
+AmbientSounds: OMNI><AM_WIN-HowlingWnd.ogg><680.8288><510.9769><0.685598><0.8468816, OMNI><AM_WIN-SubWnd.ogg><684.4122><285.9383><0.6933315><1.626393, OMNI><AM_WIN-StrongWnd2.ogg><695.9366><349.9991><0.7165309><1, OMNI><AM_WIN_Hilltop.ogg><700.0214><429.7277><0.6778644><1.9, 
+Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>solar_climb<eA>vol<eB>0.3618662<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>0<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>1<eA>stopAtGate<eB>0<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>683.0928<tB>356.8795<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>, 
+FadePalette: 243, 0, 0, 0, 0
 WetTerrain: OFF
+BackgroundOffset: -927.993,-618.6611

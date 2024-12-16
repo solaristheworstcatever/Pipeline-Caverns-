@@ -1,13 +1,9 @@
-Template: PC_SettingsTemplate_Mushroom
-DangerType: None
+Template: PC_SettingsTemplate_Surface
 CeilingDrips: 0
-WaveSpeed: 0.51
-WaveLength: 1
-WaveAmplitude: 0.0001
+WaveSpeed: 0.6848646
+WaveLength: 0.9075677
+WaveAmplitude: 9.046923E-05
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
-Palette: 10
-Effects: ReplaceEffectColorA-0-739.324-524.9333-Color-1-0.8144014-0.9149336, 
-PlacedObjects: ShelterBhvrTriggerZone><177.0768><256.9922><130.3552~91.9111, LightSource><391.0488><1242.679><0.7717391~EffectColor2~-253.2791~95.73328~50~86.60254~0~0~None~0~0, LightSource><884.3894><1037.992><0.6739131~EffectColor2~-261.1052~161.1556~50~86.60254~0~0~None~0~0, LightSource><1005.858><1224.135><0.6304348~EffectColor2~-344.8718~70.79999~-121.652~79.62476~0~0~None~0~0, LightSource><586.0067><946.8875><0.6304348~EffectColor2~-202.7656~80.79999~-128.7406~-161.6863~0~0~None~0~0, LightSource><1224.302><1088.297><0.5978261~EffectColor2~249.0104~203.8222~-329.4708~-215.2197~0~0~None~0~0, LightSource><1453.607><1146.822><0.5978261~EffectColor2~-251.1448~126.3111~-618.0593~215.3137~0~0~None~0~0, ShelterBhvrManager><-38.26599><1146.199><100~50~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrPlacedDoor><59.62503><1106.703><1^0, ShelterBhvrSpawnPosition><217.4496><1077.988><, LightSource><1050.748><799.0447><0.4673913~EffectColor2~357.1521~247.2~245~308.6025~0~0~None~0~0, LightSource><869.8485><794.7576><0.3369565~EffectColor2~-206.3229~172.5333~475.4521~464.2025~0~0~None~0~0, LightSource><1198.709><818.1078><0.1630435~EffectColor2~-25.61249~220.1778~509.6021~105.0914~0~0~None~0~0, LightSource><722.7119><1207.69><1~EffectColor2~-348.0146~188.8666~-637.2687~-305.2197~0~0~None~0~0, LightSource><391.6797><1032.483><0.6739131~EffectColor2~157.9437~117.0667~-389~-173.3975~0~0~None~0~0, LightSource><238.0219><1086.887><0.7717391~EffectColor2~-184.2677~69.42221~50~86.60254~0~0~None~0~0, LightSource><1188.6><326.7332><1~EffectColor2~-448.9302~-89.15553~50~86.60254~1~0~None~0~0, LightSource><776.5109><389.2379><1~EffectColor2~350.749~-2.400024~50~86.60254~0~0~None~0~0, LightSource><749.3123><92.17942><1~EffectColor2~449.6417~445.5999~50~86.60254~0~0~None~0~0, LightSource><987.7544><139.8375><1~EffectColor2~-612.5656~145.5111~-596.0042~312.7359~0~0~None~0~0, LightSource><1035.446><454.3295><1~EffectColor2~-478.1001~129.1556~50~86.60254~0~0~None~0~0, LightSource><1395.446><178.3075><1~EffectColor2~-708.6124~94.31113~50~86.60254~0~0~None~0~0, LightSource><1011.905><633.3761><0.4130435~EffectColor2~-680.8656~-59.28894~50~86.60254~0~0~None~0~0, 
-FadePalette: 243, 0, 0, 0
+FadePalette: 245, 1
 WetTerrain: OFF

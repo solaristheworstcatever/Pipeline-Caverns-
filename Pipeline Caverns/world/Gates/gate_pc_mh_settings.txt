@@ -1,0 +1,10 @@
+Template: PC_SettingsTemplate_Mushroom
+CeilingDrips: 0
+WaveSpeed: 0.5495159
+WaveLength: 0.975242
+WaveAmplitude: 0.0003627183
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+PlacedObjects: LightSource><238.5789><242.1035><0.4034464~EffectColor2~181~322~50~86.60254~0~0~None~0~0, LightSource><476.5551><229.9554><0.423913~EffectColor2~685~458~50~86.60254~1~0~None~0~0, LightSource><580.9497><234.9906><0.5869563~EffectColor2~250~119~50~86.60254~0~0~None~0~0, 
+FadePalette: 243, 0.1630435
+WetTerrain: OFF

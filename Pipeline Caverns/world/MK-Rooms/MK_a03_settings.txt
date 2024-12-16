@@ -1,9 +1,12 @@
-Template: PC_SettingsTemplate_Mushroom
+Template: PC_SettingsTemplate_Surface
 CeilingDrips: 0
-WaveSpeed: 0.4809499
-WaveLength: 0.9904749
-WaveAmplitude: 7.300299E-13
+WaveSpeed: 0.4326859
+WaveLength: 0.9663429
+WaveAmplitude: 1.815989E-06
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
-PlacedObjects: LightSource><475.1345><425.0527><0.2266759~EffectColor2~719.9958~304.0889~50~86.60254~0~0~None~0~0, LightSource><159.3214><559.0005><0.4818726~EffectColor2~293.1208~82.22223~50~86.60254~0~0~None~0~0, LightSource><181.0206><296.4232><0.358141~EffectColor2~224.1094~85.77777~50~86.60254~0~0~None~0~0, LightSource><874.0836><320.3672><0.3890739~EffectColor2~-300.2354~116.3556~50~86.60254~0~0~None~0~0, LightSource><846.6319><572.0672><0.3968081~EffectColor2~-270.3542~81.51111~50~86.60254~0~0~None~0~0, LightSource><540.4055><660.0786><1~EffectColor2~270.3542~130.5778~50~86.60254~0~0~None~0~0, LightSource><860.5063><85.31253><0.5592041~EffectColor2~660.2333~455.5555~50~86.60254~0~0~None~0~0, LightSource><-274.8383><543.9646><0.4664063~Environment~0~100~50~86.60254~1~0~None~0~0, LightSource><581.9042><51.67134><0.3272088~EffectColor2~-461.7365~153.3333~50~86.60254~0~0~None~0~0, LightSource><367.7759><56.02206><0.520539~EffectColor2~359.2865~187.4667~50~86.60254~0~0~None~0~0, 
+Palette: 245
+PlacedObjects: SnowSource><455.6185><375.7995><None~-650.9844~351.7333~50~86.60254~0.6984041~0.3789282, PlacedWind><-206.6144><-44.3295><0~768.1778~1369.716~768.1778~1364.024~0~0.4639949~Creatures~Horizontal, 
+FadePalette: 245, 0
 WetTerrain: OFF
+BackgroundOffset: -1418.593,-1933.315

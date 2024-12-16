@@ -1,12 +1,12 @@
-Template: PC_SettingsTemplate_Mushroom
+Template: PC_SettingsTemplate_Surface
 CeilingDrips: 0
-WaveSpeed: 0.51
-WaveLength: 1
-WaveAmplitude: 0.0001
+WaveSpeed: 0.2384074
+WaveLength: 0.8692037
+WaveAmplitude: 0.0001569053
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
-BkgDroneVolume: 0
-BkgDroneNoThreatVolume: 0
-PlacedObjects: LightSource><706.274><453.5096><1~EffectColor2~-263.2396~150.4889~50~86.60254~0~0~None~0~0, LightSource><198.6402><451.5201><1~EffectColor2~-212.726~159.0222~50~86.60254~0~0~None~0~0, LightSource><321.7059><186.8976><1~EffectColor2~-224.8208~136.9778~50~86.60254~0~0~None~0~0, LightSource><641.8678><233.8454><1~EffectColor2~-178.576~141.9555~50~86.60254~0~0~None~0~0, LightSource><453.3346><435.9294><1~EffectColor2~-214.149~88.62219~50~86.60254~0~0~None~0~0, 
-FadePalette: 10, 1
+Effects: AboveCloudsView-0.7934783-20-20, 
+PlacedObjects: SnowSource><518.8554><277.6382><Radial~-721~437~50~86.60254~0.8695652~0.7826087, 
+FadePalette: 245, 1
 WetTerrain: OFF
+BackgroundOffset: -5000,-1256.23

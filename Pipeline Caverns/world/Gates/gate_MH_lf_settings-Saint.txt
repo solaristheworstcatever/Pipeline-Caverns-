@@ -1,0 +1,10 @@
+CeilingDrips: 0
+WaveSpeed: 0.4746218
+WaveLength: 0.9873109
+WaveAmplitude: 7.311505E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+PlacedObjects: NoSpearStickZone><479.0601><229.7718><680.1542~420, 
+FadePalette: 245, 0.4608582
+WetTerrain: OFF
+MorePalette0: 243, 0.4347826
