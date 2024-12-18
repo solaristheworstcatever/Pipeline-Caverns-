@@ -1,0 +1,11 @@
+Template: MH_SettingsTemplate_Heights
+DangerType: None
+CeilingDrips: 0
+WaveSpeed: 0.1907986
+WaveLength: 0.8453993
+WaveAmplitude: 1.365745E-07
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+PlacedObjects: LightSource><414.7088><2153.554><1~EffectColor2~412~120~50~86.60254~0~0~None~0~0, LightSource><415.3218><1746.841><1~EffectColor2~319~309~50~86.60254~0~0~None~0~0, LightSource><926.9142><2033.069><1~EffectColor2~207~326~50~86.60254~0~0~None~0~0, LightSource><424.4328><1329.081><1~EffectColor2~463~115~50~86.60254~0~0~None~0~0, LightSource><470.6346><981.4133><1~EffectColor2~383~195~50~86.60254~0~0~None~0~0, LightSource><1089.476><1384.052><1~EffectColor2~335~139~50~86.60254~0~0~None~0~0, LightSource><1018.8><1019.257><1~EffectColor2~370~172~50~86.60254~0~0~None~0~0, LightSource><769.317><407.3308><0.4673913~EffectColor2~563~268~50~86.60254~0~0~None~0~0, 
+FadePalette: 245, 0.2282609, 0.2173913, 0.1630435
+WetTerrain: OFF

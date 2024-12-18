@@ -1,0 +1,9 @@
+Template: SI_SettingsTemplate_Inside
+DangerType: FloodAndRain
+Clouds: 0.4021739
+Grime: 0.2173913
+RandomItemDensity: 0.2065217
+RandomItemSpearChance: 0.1021738
+Palette: 2
+EffectColorA: 10
+FadePalette: 247, 0.5543478

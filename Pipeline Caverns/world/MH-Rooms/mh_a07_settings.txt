@@ -1,0 +1,10 @@
+Template: MH_SettingsTemplate_Mushroom
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Effects: ReplaceEffectColorB-0.5326087-768-373-Color-0.3478261-0.3695652-0.6195652, 
+PlacedObjects: PCPlayerSensitiveLightSource><192.2211><409.3021><0~0.5543478~0.7608696~EffectColor2~313~133~192~154~50~86.60254~0, PCPlayerSensitiveLightSource><583.0331><455.8028><0~1~0.7391304~EffectColor2~299~151~202~166~50~86.60254~0, PCPlayerSensitiveLightSource><640.8283><164.9341><0~1~0.7717391~EffectColor2~-215~193~-288~266~50~86.60254~0, PCPlayerSensitiveLightSource><291.0602><193.3132><0~1~0.6086956~EffectColor2~191~115~227~178~50~86.60254~0, 
+WetTerrain: OFF

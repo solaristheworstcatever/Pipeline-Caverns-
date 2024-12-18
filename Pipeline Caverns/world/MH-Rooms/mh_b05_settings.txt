@@ -1,0 +1,8 @@
+Template: MH_SettingsTemplate_Mushroom
+CeilingDrips: 0
+WaveSpeed: 0.4509993
+WaveLength: 0.9754996
+WaveAmplitude: 4.664818E-09
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+WetTerrain: OFF

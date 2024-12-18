@@ -1,0 +1,11 @@
+Template: PC_SettingsTemplate_Higher
+CeilingDrips: 0
+WaveSpeed: 0.7161636
+WaveLength: 0.8919182
+WaveAmplitude: 5.797902E-06
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 245
+PlacedObjects: LocalBlizzard><408.6996><1269.987><749~-1242~375~-61.39746~0.6847826~1~0.75, SnowSource><475.9137><1221.806><Radial~-470.824~227.3777~50~86.60254~0.4432068~0.3547449, SnowSource><472.3691><319.5858><Radial~-339.3656~324~50~86.60254~0.3890739~0.2319973, CustomDecal><271.0033><170.4668><-93.20108~401.9555~428.4562~565.5111~501.025~-59.02222~-368.5355~102.4~0.2629298~1~0~dev mural 4~1~0.6186593~1~0.6186593~1~0.6186593~1~0.6186593, 
+FadePalette: 243, 0.1195652, 0.2608696
+WetTerrain: OFF
