@@ -18,5 +18,5 @@ Palette: 10
 EffectColorA: 19
 EffectColorB: 6
 Effects: ReplaceEffectColorB-0-767.0708-384.1333-Color-0.7346583-0.6109261-0.7114583, Flies-0.326087-20-20, ReplaceEffectColorA-0-484.0156-549.4445-Color-0.3152174-0-0, 
-AmbientSounds: OMNI><so_wat-lightflow.ogg><48.47243><468.0519><0.5760869><0.4913043, OMNI><AM_ENV-Woods.ogg><728.9408><368.5599><0.5><0.7652174, OMNI><AM_IND-DeepHum.ogg><717.3522><309.1153><0><1, OMNI><AM_ENV-CricketsWnd.ogg><728.9489><549.2708><0.5><1, OMNI><AM_SUB-MysticCave2.ogg><741.3187><225.3343><0><1, OMNI><AM_SUB-MysticCave1.ogg><588.6956><35.95799><0><1, OMNI><AM_ENV-WinterTrees.ogg><249.3><434.7532><0.7717391><1, OMNI><AM_ENV-Forest.ogg><449.4441><386.5483><0.6195652><1, 
+AmbientSounds: OMNI><am_env-subterr.ogg><619.038><413.3321><0.3581397><1.9, OMNI><am_env-citytone.ogg><318.5461><362.5577><0.6314651><0.4710465, OMNI><am_env-forest.ogg><-17.85347><632.5072><0.6391987><0.220489, 
 FadePalette: 245, -1

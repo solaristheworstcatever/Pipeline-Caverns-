@@ -1,0 +1,9 @@
+Template: MH_SettingsTemplate_Mushroom
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+PlacedObjects: LightSource><490.6738><329.901><0.1195652~EffectColor2~673~413~50~86.60254~0~0~None~0~0, LightSource><298.5951><474.3735><0.4673913~EffectColor2~227~182~50~86.60254~0~0~None~0~0, LightSource><314.9435><226.3005><0.5869565~EffectColor2~-9~212~50~86.60254~0~0~None~0~0, LightSource><592.8396><245.8212><0.4130435~EffectColor2~133~152~50~86.60254~0~0~None~0~0, 
+WetTerrain: OFF

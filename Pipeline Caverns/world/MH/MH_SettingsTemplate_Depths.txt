@@ -1,10 +1,10 @@
-DangerType: Blizzard
+DangerType: None
 CeilingDrips: 0
 RainIntensity: 1
 RumbleIntensity: 1
-WaveSpeed: 0.6704971
-WaveLength: 0.9147514
-WaveAmplitude: 3.406229E-10
+WaveSpeed: 0.4750724
+WaveLength: 0.9875362
+WaveAmplitude: 0.0005058559
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.09013798
@@ -14,10 +14,8 @@ BkgDroneNoThreatVolume: 1
 RandomItemDensity: 0.5
 RandomItemSpearChance: 0.2
 WaterReflectionAlpha: 1
-Palette: 245
+Palette: 10
 EffectColorA: 19
 EffectColorB: 6
-Effects: Fog-0-30-30, AboveCloudsView-1-20-20, Coldness-0.4045407-250.5521-0, ReplaceEffectColorA-0-312-199-Color-0.5543478-0.1195652-0.09782609, 
-AmbientSounds: OMNI><AM_WIN-HowlingWnd.ogg><680.8288><510.9769><0.685598><0.8468816, OMNI><AM_WIN-SubWnd.ogg><684.4122><285.9383><0.6933315><1.626393, OMNI><AM_WIN-StrongWnd2.ogg><695.9366><349.9991><0.7165309><1, OMNI><AM_WIN_Hilltop.ogg><700.0214><429.7277><0.6778644><1.9, 
-FadePalette: 245, 0
-BackgroundOffset: -927.993,-2568.718
+Effects: ReplaceEffectColorB-0.8970562-1047.425-358.5778-Color-1-0.3325288-0.2242644, Fog-0-30-30, AboveCloudsView-1-20-20, Coldness-0.4045407-250.5521-0, ReplaceEffectColorA-0-733.1833-413.7556-Color-0.5543478-0.1195652-0.09782609, 
+AmbientSounds: OMNI><am_env-subterr.ogg><619.038><413.3321><0.3581397><1.9, OMNI><am_env-citytone.ogg><318.5461><362.5577><0.6314651><0.4710465, OMNI><am_env-forest.ogg><-17.85347><632.5072><0.6391987><0.220489, 

@@ -1,0 +1,10 @@
+Template: MH_SettingsTemplate_Mushroom
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Effects: ReplaceEffectColorA-0-611-407-Color-0.7391304-0.6086956-0.7065217, 
+PlacedObjects: LightSource><1394.374><416.3434><0.4130435~EffectColor1~784~426~50~86.60254~0~0~None~0~0, LightSource><537><437><0.4130435~EffectColor2~784~426~50~86.60254~0~0~None~0~0, LightSource><240.1455><344.1128><1~EffectColor2~270~214~50~86.60254~0~0~None~0~0, LightSource><714><581><1~EffectColor2~270~214~50~86.60254~0~0~None~0~0, LightSource><834><294><1~EffectColor2~270~214~50~86.60254~0~0~None~0~0, LightSource><1664><162><1~EffectColor1~270~214~50~86.60254~0~0~None~0~0, LightSource><1275><371><1~EffectColor1~270~214~50~86.60254~0~0~None~0~0, LightSource><1646><703><1~EffectColor1~270~214~50~86.60254~0~0~None~0~0, LightSource><1062><675><1~EffectColor1~270~214~50~86.60254~0~0~None~0~0, BubbleGrass><1260.151><256.6314><0~0~4~9, BubbleGrass><1838.802><722.4705><0~0~4~9, BubbleGrass><1702.037><623.3035><0~0~4~9, 
+WetTerrain: OFF
