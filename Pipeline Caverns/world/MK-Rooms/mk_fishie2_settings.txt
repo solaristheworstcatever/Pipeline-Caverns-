@@ -1,0 +1,14 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 0
+WaveSpeed: 0.5715243
+WaveLength: 0.9642379
+WaveAmplitude: 1.858605E-09
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 54
+Effects: LightBurn-1-852-532, SkyBloom-1-851-452, AboveCloudsView-1-20-20, Fog-1-1014.658-335.0667, Brightness-0.07733287-1118.531-456.6667, 
+FadePalette: 8, 0.1237322
+WetTerrain: OFF
+BackgroundOffset: 0,480
+BackgroundType: atc_default_saint

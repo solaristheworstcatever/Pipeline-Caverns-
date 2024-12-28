@@ -1,0 +1,10 @@
+Template: MH_SettingsTemplate_Heights
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+PlacedObjects: ShelterBhvrPlacedDoor><1009.519><3391.755><1^0, ShelterBhvrSpawnPosition><1226.424><3352.151><, ShelterBhvrManager><563.817><3108.564><100~50~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrPlacedDoor><2094.751><172.8406><0^1, LightSource><993.0533><552.837><0.6442699~EffectColor2~-591.2219~226.5778~50~86.60254~0~0~None~0~0, LightSource><327.6835><445.8308><0.4277402~EffectColor2~303.7927~143.3778~50~86.60254~0~0~None~0~0, LightSource><660.5115><593.9556><0.6442699~EffectColor2~-591.2219~226.5778~50~86.60254~0~0~None~0~0, LightSource><1507.896><516.4445><0.6442699~EffectColor2~-591.2219~226.5778~50~86.60254~0~0~None~0~0, LightSource><897.8688><1151.622><0.6442699~EffectColor2~-591.2219~226.5778~50~86.60254~0~0~None~0~0, LightSource><1294.151><872.8666><0.4277402~EffectColor2~303.7927~143.3778~50~86.60254~0~0~None~0~0, LightSource><761.9802><3678.889><0.3504065~EffectColor2~-421.8948~175.3778~50~86.60254~0~0~None~0~0, LightSource><1403.716><3162.622><0.3968055~EffectColor2~-370.6699~141.2445~50~86.60254~0~0~None~0~0, LightSource><1663.398><3651.867><0.2730739~EffectColor2~-301.6584~162.5778~50~86.60254~0~0~None~0~0, LightSource><1084.982><3183.244><0.3504065~EffectColor2~-424.0292~156.1778~556.5583~218.8692~0~0~None~0~0, LightSource><1272.096><3649.022><0.3504065~EffectColor2~-322.2906~123.4667~50~86.60254~0~0~None~0~0, ShelterBhvrNoTriggerZone><560.7665><3482.581><1361.178~381.3333, ShelterBhvrTriggerZone><54.34412><1.593872><1869.871~2321.244, ShelterBhvrNoTriggerZone><563.5647><1546.708><1352.641~765.3333, ShelterBhvrNoTriggerZone><558.7609><3110.752><1359.755~153.7778, ShelterBhvrTriggerZone><1127.578><3317.755><181.5802~131.7333, 
+FadePalette: 245, 0.1546647, 0.1391985, 0.1237319, 0.1159986, 0.1005322, 0.09279898
+WetTerrain: OFF

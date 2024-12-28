@@ -1,4 +1,4 @@
-Template: PC_SettingsTemplate_Mushroom
+Template: MH_SettingsTemplate_Mushroom
 CeilingDrips: 0
 WaveSpeed: 0.51
 WaveLength: 1

@@ -1,0 +1,9 @@
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 0
+PlacedObjects: ShelterBhvrPlacedDoor><2941.641><224.0149><-1^0, ShelterBhvrManager><2151.743><307.7846><100~50~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrPlacedDoor><2981.582><1889.726><-1^0, ShelterBhvrSpawnPosition><284.7951><1036.913><, ShelterBhvrPlacedDoor><136.8221><1048.193><1^0, 
+FadePalette: 1, 0, 0, 0, 0, 0
